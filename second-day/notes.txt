@@ -1,1 +1,1 @@
- - Criar
+ - Criar função que consulta a api do github e recupera o avatar de um usuário.
